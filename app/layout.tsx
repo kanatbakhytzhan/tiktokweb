@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { TikTokPixelInjector } from "@/components/TikTokPixelInjector";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -26,7 +27,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ru" className="h-full antialiased">
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        {children}
+        <TikTokPixelInjector />
+      </body>
     </html>
   );
 }
