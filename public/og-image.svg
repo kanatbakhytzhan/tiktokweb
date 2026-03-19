@@ -1,0 +1,15 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#111827"/>
+  <rect x="0" y="350" width="1200" height="280" fill="#0B1220"/>
+  <text x="80" y="170" fill="#FCD34D" font-family="Arial, sans-serif" font-size="30" font-weight="700">0<5@ 8 :>=AC;LB0F8O 15A?;0B=></text>
+  <text x="80" y="250" fill="white" font-family="Arial, sans-serif" font-size="52" font-weight="800">0BO6=K5 ?>B>;:8</text>
+  <text x="80" y="315" fill="white" font-family="Arial, sans-serif" font-size="36" font-weight="700"> 0AG5B AB>8<>AB8 A B>G=>ABLN 4> 90%</text>
+  <rect x="80" y="390" width="330" height="64" rx="32" fill="url(#paint0_linear)"/>
+  <text x="128" y="430" fill="white" font-family="Arial, sans-serif" font-size="27" font-weight="700">0:070BL 70<5@</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="80" y1="422" x2="410" y2="422" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+</svg>
