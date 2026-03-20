@@ -1,6 +1,9 @@
+import { unstable_noStore as noStore } from "next/cache";
 import { getTikTokPixelCode } from "@/lib/pixel-storage";
 
 export async function TikTokPixelInjector() {
+  noStore();
+
   let pixelCode = "";
 
   try {

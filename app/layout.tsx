@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { TikTokPixelInjector } from "@/components/TikTokPixelInjector";
 import "./globals.css";
 
+export const dynamic = "force-dynamic";
+
 export const metadata: Metadata = {
   metadataBase: new URL("https://example.vercel.app"),
   title: "Натяжные потолки - бесплатный замер и консультация",
